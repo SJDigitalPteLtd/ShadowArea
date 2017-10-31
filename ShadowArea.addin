@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <!--<AddIn Type="Command">
+    <Text>Command ShadowArea</Text>
+    <Description>Some description for ShadowArea</Description>
+    <Assembly>AtlasShadowArea.dll</Assembly>
+    <FullClassName>AtlasShadowArea.Command</FullClassName>
+    <ClientId>2a66d1f3-3658-4117-9d43-573e809a7b8c</ClientId>
+    <VendorId>lehieuhongphuc@gmail.com</VendorId>
+    <VendorDescription>The BIM TEAM, Phuc LHH, phuc.lehieuhong@atlasindustries.com</VendorDescription>
+  </AddIn>-->
+  <AddIn Type="Application">
+    <Name>Application ShadowArea</Name>
+    <Assembly>AtlasShadowArea.dll</Assembly>
+    <FullClassName>AtlasShadowArea.App</FullClassName>
+    <ClientId>3c58574e-7705-4462-95d8-806585e60427</ClientId>
+    <VendorId>lehieuhongphuc@gmail.com</VendorId>
+    <VendorDescription>The BIM TEAM, Phuc LHH, phuc.lehieuhong@atlasindustries.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
